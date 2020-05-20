@@ -1,4 +1,6 @@
-# Countries flags images with country names and codes for Unity
+## Description
+This asset has 186 country flags images with names and codes for Unity
+
 ## Installation
 Just download `.unitypackage` from releases tab and import it to your project
 
