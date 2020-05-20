@@ -14,3 +14,4 @@ Based on this package for Swift:
 https://github.com/malczak/flag-icon-swift
 
 Which is based on this package:
+https://github.com/lipis/flag-icon-css
